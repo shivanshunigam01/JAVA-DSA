@@ -1,18 +1,10 @@
-## Getting Started
+## INTRODUCTION
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the JAVA+DSA repository....This repo consists of some java basics java porgrams and many concepts of Data Structres And Alogorithm which was taught in the self paced course of Apna college(A complete java + Dsa course)
 
-## Folder Structure
+![cover](https://user-images.githubusercontent.com/102843159/211679770-ba6259bb-e87b-4932-b59c-f283d2628d7b.jpg)
 
-The workspace contains two folders by default, where:
+## NEED
+Data structures are fundamental to any programming language. The choice of a particular data structure has a significant impact on the functionality and performance of Java applications, thus it is worthwhile to master data structures in Java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This Repo will help beginners to understand what is data structures, what is data structures in Java, the types of data structures in Java and many more.
