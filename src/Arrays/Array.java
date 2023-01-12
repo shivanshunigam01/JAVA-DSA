@@ -5,7 +5,7 @@ public class Array {
         // frndsname[0]="Shiva";
         // frndsname[1]="devyansh";
         // frndsname[2]="divij";
-        // frndsname[3]="param";
+        // frndsname[3]="param";v                                         ;
 
         String frndsname[]={"shiva","divij","devyansh","param"};
 //displaying the elements of the array below;
