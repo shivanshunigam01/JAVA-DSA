@@ -1,9 +1,5 @@
 package Sorting;
 import java.util.*;
-
-    
-
-
 public class bubbleSort {
 
     public static void arrayprint(int arr[]){
