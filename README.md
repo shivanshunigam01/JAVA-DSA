@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-Welcome to the JAVA+DSA repository....This repo consists of some java basics java porgrams and many concepts of Data Structres And Alogorithm which was taught in the self paced course of Apna college(A complete java + Dsa course)
+Welcome to the JAVA+DSA repository....This repo consists of some java basics java porgrams and many concepts of Data Structres And Alogorithm which was taught in the self paced course of Apna college(A complete JAVA + DSA course)
 
 ![cover](https://user-images.githubusercontent.com/102843159/211679770-ba6259bb-e87b-4932-b59c-f283d2628d7b.jpg)
 
