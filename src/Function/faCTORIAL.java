@@ -18,3 +18,4 @@ public class faCTORIAL {
            Factorial(n);
     }
 }
+
