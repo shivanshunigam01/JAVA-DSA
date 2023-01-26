@@ -1,2 +1,0 @@
-package Arrays;
-class index
