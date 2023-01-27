@@ -13,6 +13,6 @@ public class ArrayClone {
         System.out.println(i);  
           
         System.out.println("Are both equal?");  
-        System.out.println(arr!=carr);  
+        System.out.println(arr! =carr);  
           
         }} 
