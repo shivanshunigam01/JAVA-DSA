@@ -21,7 +21,6 @@ n2=temp;
 System.out.println(n1);
 System.out.println(n2);
 
-
     }
 
 
