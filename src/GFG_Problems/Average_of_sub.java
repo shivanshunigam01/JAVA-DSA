@@ -17,7 +17,7 @@ public class Average_of_sub {
     
 int sum=a+b+c+d+e;
 System.out.println("Sum of marks will be:"+sum);
-int average=sum/5.2;
+int average=sum/5;
 System.out.println(average);
 
 
