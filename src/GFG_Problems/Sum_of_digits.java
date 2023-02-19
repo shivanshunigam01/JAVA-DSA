@@ -10,7 +10,7 @@ public class Sum_of_digits {
         int reverse,sum=0;
 
         while(n>0){
-            reverse=n%10;
+            reverse=n%10;r
             n=n/10;
             sum=reverse+sum;
         }
