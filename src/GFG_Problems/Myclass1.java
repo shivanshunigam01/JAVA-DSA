@@ -1,6 +1,6 @@
 package GFG_Problems;
 
-public class MyClass1
+public class MyClass
 {
   private int a;
   public double b;
