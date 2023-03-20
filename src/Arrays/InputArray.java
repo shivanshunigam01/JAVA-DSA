@@ -19,6 +19,8 @@ public class InputArray {
 
         sc.close();
 
+
+        //Loop
         //For displaying the array
 
         for(int i=0;i<number.length;i++){
